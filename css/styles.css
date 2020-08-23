@@ -1,0 +1,182 @@
+a {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  margin: 20px;
+  padding-top: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f5f5f5;
+}
+
+body {
+  background: #f5f5f5;
+  margin: 0;
+  text-align: center;
+}
+
+div {
+  height: auto;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #3f72af;
+  margin: 0;
+  padding-top: 50px;
+}
+
+h2 {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  color: #66BFBF;
+  margin: 40px auto;
+}
+
+
+h3 {
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #11999E;
+  margin: 0;
+}
+
+hr {
+  border: dotted #bbded6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 40px auto;
+}
+
+p {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 1.25rem;
+  color: #3f72af;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.bottom-cloud {
+  position: absolute;
+  padding-top: 40px;
+}
+
+.bottom-container {
+  background: #66BFBF;
+  margin: 20px auto 0 auto;
+  padding-top: 20px;
+}
+
+.BUTTON_Contact {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #306A6A);
+  background-image: -moz-linear-gradient(top, #66BFBF, #306A6A);
+  background-image: -ms-linear-gradient(top, #66BFBF, #306A6A);
+  background-image: -o-linear-gradient(top, #66BFBF, #306A6A);
+  background-image: linear-gradient(to bottom, #66BFBF, #306A6A);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 200;
+  padding: 10px;
+  text-shadow: 0 0 10px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_Contact:hover {
+  background: #306A6A;
+  background-image: -webkit-linear-gradient(top, #306A6A, #66BFBF);
+  background-image: -moz-linear-gradient(top, #306A6A, #66BFBF);
+  background-image: -ms-linear-gradient(top, #306A6A, #66BFBF);
+  background-image: -o-linear-gradient(top, #306A6A, #66BFBF);
+  background-image: linear-gradient(to bottom, #306A6A, #66BFBF);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.chillies-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.circular {
+  border-radius: 50%;
+  filter: drop-shadow(8px 8px 10px #3f72af);
+}
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  padding: 10px 0;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.DNA-img {
+  width: 30%;
+  float: right;
+}
+
+.footer-link {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 1.5rem;
+  color: #11999E;
+}
+
+.get-in-touch {
+  width: 40%;
+  margin: 20px auto;
+}
+
+.intro {
+  width: 40%;
+  margin: 20px auto;
+}
+
+.middle-container {
+  padding-top: 30px;
+}
+
+.shadow {
+  text-shadow: 1px 1px 2px gold;
+}
+
+.skill-row {
+  display: inline-block;
+  line-height: normal;
+  margin: 50px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.top-container {
+  background: #cbf1f5;
+  margin-bottom: 40px;
+}
+
+.top-cloud {
+  position: relative;
+  top: 40px;
+  left: 200px;
+}
+
+.underline {
+  text-decoration: underline;
+}
